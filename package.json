@@ -1,5 +1,5 @@
 {
-  "name": "online_store",
+  "name": "owc",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -46,5 +46,13 @@
     "last 15 version",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashgrinder/owc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flashgrinder/owc/issues"
+  },
+  "homepage": "https://github.com/flashgrinder/owc#readme"
 }
